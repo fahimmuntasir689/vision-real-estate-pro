@@ -12,3 +12,6 @@ FEATURES OF THE SITE :
 
 6.noticable animation works.
 
+
+
+#Animate.css package has been used for some design works.
