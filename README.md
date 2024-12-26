@@ -16,4 +16,4 @@ FEATURES OF THE SITE :
 
 #Animate.css package has been used for some design works.
 
-site address : https://book-vibe-pro.netlify.app
+site address : https://vision-real-estate-pro.netlify.app
